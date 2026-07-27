@@ -1,5 +1,5 @@
 {
-  "facturalitera://": { "disponible": false },
+  "facturalitera://": { "disponible": true },
   "albalitera://": { "disponible": true },
   "stocklitera://": { "disponible": false, "appStoreID": "6785862259" },
   "gastoslitera://": { "disponible": false, "appStoreID": "6782988267" },
